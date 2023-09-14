@@ -1,4 +1,4 @@
-# SDSC2005-Exercise-Time-Series-Analysis-for-Predictive-Research-2
+# Exercise-Time-Series-Analysis-for-Predictive-Research-2
 
 Data2: Ex4_data2.xlsx, containing the following sheets (using “Adj Close” in column F as Price for all questions below):
 •	0005.hk: the price and volume of HSBC (bank)
